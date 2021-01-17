@@ -1,8 +1,5 @@
-remote_theme: jglovier/resume-template@gh-pages
+remote_theme: jeromelachaud/freelancer-theme
 #remote_theme: sharu725/online-cv
 #theme: jekyll-theme-cayman
 title: Sanat Rohatgi
 description: something
-resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"

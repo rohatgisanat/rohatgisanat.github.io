@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 title: "Sanat Rohatgi"
 ---
 <h2>Profile</h2>

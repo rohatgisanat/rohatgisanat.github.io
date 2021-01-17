@@ -5,7 +5,7 @@ layout: resume
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
+resume_name:                    " Simpson"
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html

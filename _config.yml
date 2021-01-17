@@ -53,4 +53,4 @@ resume_social_links:
 resume_print_social_links:      true
 
 # Design settings
-resume_theme:                   default
+resume_theme:                   resume

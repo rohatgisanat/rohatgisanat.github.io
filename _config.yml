@@ -1,7 +1,10 @@
 remote_theme: jglovier/resume-template@gh-pages
 title: Sanat Rohatgi
 description: something
-
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Lisa M. Simpson"

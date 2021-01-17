@@ -7,7 +7,7 @@ sass:
   style: compressed
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
+resume_name:                    "Lisa x Simpson"
 resume_title:                   "VP of Global Communications"
 
 # used for the contact button in _layouts/resume.html

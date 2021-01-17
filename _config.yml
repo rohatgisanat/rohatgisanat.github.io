@@ -1,4 +1,4 @@
-remote_theme: jglovier/resume-template
+remote_theme: jglovier/resume-template@gh-pages
 title: Sanat Rohatgi
 description: something
 markdown: kramdown

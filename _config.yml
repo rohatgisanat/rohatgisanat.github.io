@@ -1,8 +1,8 @@
-#remote_theme: kitian616/jekyll-TeXt-theme@gh-pages
+remote_theme: kitian616/jekyll-TeXt-theme@gh-pages
 #remote_theme: jglovier/resume-template@gh-pages
 #remote_theme: jeromelachaud/freelancer-theme
 #remote_theme: sharu725/online-cv
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 title: Sanat Rohatgi
 description: something
 

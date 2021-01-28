@@ -32,7 +32,7 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 
 title: Sanat Rohatgi
 email: rohatgisanat@gmail.com
-author: Sanat Rohatgi
+author: "Sanat Rohatgi"
 copyright: Copyright © 1970-2010
 description: >- # this means to ignore newlines until "baseurl:"
   My own personal portfolio.
@@ -58,7 +58,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+lang: "en"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -124,19 +124,19 @@ night_mode: "on"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
+header_pages:
+  - index.html
+  - archives.html
 #   - categories.html
-#   - tags.html
-#   - about.md
+  - tags.html
+  - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Sanat Rohatgi"
+    subheading: "Focus.Commitment.Sheer Will"
+#    banner: "Your image url"
 
 # Pagination setting
 # paginate: 5

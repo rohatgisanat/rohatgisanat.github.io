@@ -2,6 +2,7 @@
 #remote_theme: jglovier/resume-template@gh-pages
 #remote_theme: jeromelachaud/freelancer-theme
 #remote_theme: sharu725/online-cv
+#remote_theme: "jeffreytse/jekyll-theme-yat"
 remote_theme: "jeffreytse/jekyll-theme-yat"
 # Welcome to Jekyll!
 #
@@ -95,7 +96,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
- theme_color: spacegrey
+theme_color: spacegrey
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -111,7 +112,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
- night_mode: "on"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on

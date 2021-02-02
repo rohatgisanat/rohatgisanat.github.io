@@ -1,4 +1,4 @@
 ---
 layout: home
-banner: "/assets/images/banners/home.jpeg"
+author_profile: true
 ---

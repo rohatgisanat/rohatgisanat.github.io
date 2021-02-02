@@ -104,8 +104,8 @@ author:
   name             : "Sanat Rohatgi"
   avatar           : "/assets/images/sanat.jpeg"
   bio              : "Focus. Commitment. Sheer Will"
-  location         : "Noida,India-201301"
   email            : "rohatgisanat@gmail.com"
+  location         : "Noida,India"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

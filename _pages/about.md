@@ -5,7 +5,7 @@ title: "About"
 
 <h3>Profile</h3>
 Computer science engineer looking to gain experience in developing large scale
-software.
+software.&nbsp;
 Self-starter, I bring a unique ability to identify/ analyse problem areas and provide
 solutions.
 

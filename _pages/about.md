@@ -31,7 +31,7 @@ solutions.
 	<li> Enhance in-house Java based release management tool.</li>
 	<li> Setup/maintain production grade CDC stack using Kafka Connect and Elasticsearch.</li>
 </ul>
-<h4>Analyst ;BlackRock ;August 2016 - Feb 2019</h6>
+<h6>Analyst ;BlackRock ;August 2016 - Feb 2019</h6>
 <ul>
 	<li> Member of SRE with mission to develop tools to scale system operations.</li>
 	<li> SME for software providing complete infrastructural (hardware and software) information.</li>

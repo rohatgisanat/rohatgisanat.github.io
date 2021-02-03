@@ -2,6 +2,9 @@
 layout: collection
 permalink: /about/
 title: "About"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 <h3>Profile</h3>

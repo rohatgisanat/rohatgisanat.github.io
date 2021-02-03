@@ -7,14 +7,12 @@ toc_label: "Go To"
 toc_icon: "cog"
 ---
 ## Profile
-<h3>Profile</h3>
 Computer science engineer looking to gain experience in developing large scale
 software.&nbsp;
 Self-starter, I bring a unique ability to identify/ analyse problem areas and provide
 solutions.
 
 ## Experience
-<h3>Experience</h3>
 ### Senior DevOps Engineer
 <h6>Senior DevOps Engineer ;Fareye ;March 2020 - Present</h6>
 <ul>

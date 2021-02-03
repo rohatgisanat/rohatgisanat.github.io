@@ -52,7 +52,7 @@ solutions.
  <li>Languages: JAVA, Python, Shell</li>
 </ul>
 ## Competencies
-‣ Excellent critical thinking and analytical skills.
+‣ Excellent critical thinking and analytical skills.&nbsp;
 ‣ Self starter and a quick learner.
 ‣ Cross team communication and stakeholder management skills.
 ‣ Conflict resolution.

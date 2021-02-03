@@ -1,5 +1,5 @@
 ---
-layout: collection
+#layout: collection
 permalink: /about/
 title: "About"
 toc: true

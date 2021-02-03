@@ -3,10 +3,10 @@ layout: single
 permalink: /about/
 title: "About"
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Go To"
 toc_icon: "cog"
 ---
-
+## Profile
 <h3>Profile</h3>
 Computer science engineer looking to gain experience in developing large scale
 software.&nbsp;

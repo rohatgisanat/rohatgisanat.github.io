@@ -42,11 +42,12 @@ solutions.
 </ul>
 ## Skills
 <ul>
- <li>Well versed in SRE mission statement and objectives.</li>
+	<li>Well versed in SRE mission statement and objectives.</li></ul>
 ### CNCF
-	<li>Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators</li>
+  * Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators
 ### Monitoring
- <li>Grafana, Prometheus, Thanos, PagerDuty</li>
+  * Grafana, Prometheus, Thanos, PagerDuty
+<ul>
  <li>Filebeat, ELK, CDC, Kafka, Loki</li>
  <li>Terraform, Ansible</li>
  <li>CI/CD:- FluxCD, GitHub Actions</li>

@@ -15,14 +15,9 @@ solutions.
 
 ## Experience
 ### Senior DevOps Engineer ;Fareye ;March 2020 - Present
-  * Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
+  
 <ul>
+	<li>Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.</li>
   	<li>  Lead adoption of multiple technologicoges from PoCs to Production.(Helm/FluxCD/Loki)</li>
 	<li>  Manage CI/CD using Github Actions/FluxCD.</li>
 	<li>  Lead DevOps/SRE culture development by doing roadshows and presentations across firm.</li>

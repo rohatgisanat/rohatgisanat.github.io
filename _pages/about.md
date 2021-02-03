@@ -13,7 +13,9 @@ software.&nbsp;
 Self-starter, I bring a unique ability to identify/ analyse problem areas and provide
 solutions.
 
+## Experience
 <h3>Experience</h3>
+### Senior DevOps Engineer
 <h6>Senior DevOps Engineer ;Fareye ;March 2020 - Present</h6>
 <ul>
 	<li>  Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.</li>
@@ -24,6 +26,7 @@ solutions.
 	<li>  Engage with different stakeholders to manage task prioritizations and accomplish common goals w.r.t platform building activities.</li>
 	<li>  Instrumental in doubling team size from 3 to 6.</li>
 </ul>
+### Software Development Engineer
 <h6>Software Development Engineer ;Fareye ;March 2019 - Feb 2020 </h6>
 <ul>
 	<li> Member of the core development team.Tasked with enhancing scale of the core platform.</li>
@@ -33,6 +36,7 @@ solutions.
 	<li> Enhance in-house Java based release management tool.</li>
 	<li> Setup/maintain production grade CDC stack using Kafka Connect and Elasticsearch.</li>
 </ul>
+### Analyst
 <h6>Analyst ;BlackRock ;August 2016 - Feb 2019</h6>
 <ul>
 	<li> Member of SRE with mission to develop tools to scale system operations.</li>

@@ -46,6 +46,7 @@ solutions.
 </ul>
 ### CNCF
   * Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators
+  
 ### Monitoring
   * Grafana, Prometheus, Thanos, PagerDuty
 <ul>

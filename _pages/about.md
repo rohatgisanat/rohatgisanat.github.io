@@ -43,7 +43,9 @@ solutions.
 ## Skills
 <ul>
  <li>Well versed in SRE mission statement and objectives.</li>
- <li>Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators</li>
+### CNCF
+	<li>Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators</li>
+### Monitoring
  <li>Grafana, Prometheus, Thanos, PagerDuty</li>
  <li>Filebeat, ELK, CDC, Kafka, Loki</li>
  <li>Terraform, Ansible</li>

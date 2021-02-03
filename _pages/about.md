@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 title: "About"
-classes: wide
+#classes: wide
 toc: true
 toc_label: "Go To"
 toc_icon: "fas fa-bars"

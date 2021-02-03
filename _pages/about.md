@@ -42,7 +42,8 @@ solutions.
 </ul>
 ## Skills
 <ul>
-	<li>Well versed in SRE mission statement and objectives.</li></ul>
+	<li>Well versed in SRE mission statement and objectives.</li>
+</ul>
 ### CNCF
   * Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators
 ### Monitoring

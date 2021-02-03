@@ -5,7 +5,7 @@ title: "About"
 classes: wide
 toc: true
 toc_label: "Go To"
-toc_icon: "cog"
+toc_icon: "fa-bars"
 ---
 ## Profile
 Computer science engineer looking to gain experience in developing large scale
@@ -17,7 +17,7 @@ solutions.
 ### Senior DevOps Engineer ;Fareye ;March 2020 - Present
 <ul>
 	<li>  Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.</li>
-	<li>  Lead adoption of multiple technologies from PoCs to Production.(Helm/FluxCD/Loki)</li>
+	<li>  Lead adoption of multiple technologicoges from PoCs to Production.(Helm/FluxCD/Loki)</li>
 	<li>  Manage CI/CD using Github Actions/FluxCD.</li>
 	<li>  Lead DevOps/SRE culture development by doing roadshows and presentations across firm.</li>
 	<li>  Lead 2 person team for identification and automation of tasks using Ansible.Including setting up and configuring EC2/Kafka/Postgres/Monitoring etc.</li>

@@ -40,3 +40,14 @@ solutions.
 	<li> SME for software providing complete infrastructural (hardware and software) information.</li>
 	<li> Responsible for enhancing application including UI development, server side enhancement, database design and third-party API integration.</li>
 </ul>
+## Skills
+<ul>
+ <li>Well versed in SRE mission statement and objectives.</li>
+ <li>Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators</li>
+ <li>Grafana, Prometheus, Thanos, PagerDuty</li>
+ <li>Filebeat, ELK, CDC, Kafka, Loki</li>
+ <li>Terraform, Ansible</li>
+ <li>CI/CD:- FluxCD, GitHub Actions</li>
+ <li>AWS- EC2,RDS,VPC,EKS</li>
+ <li>Languages: JAVA, Python, Shell</li>
+</ul>

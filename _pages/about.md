@@ -51,3 +51,11 @@ solutions.
  <li>AWS- EC2,RDS,VPC,EKS</li>
  <li>Languages: JAVA, Python, Shell</li>
 </ul>
+## Competencies
+‣ Excellent critical thinking and analytical skills.
+‣ Self starter and a quick learner.
+‣ Cross team communication and stakeholder management skills.
+‣ Conflict resolution.
+## Education
+‣ VIT University, Vellore, TN — BTech,CSE, 2016
+‣ Seth M.R. Jaipuria School,Lucknow—Xll ,2011

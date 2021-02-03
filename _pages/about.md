@@ -52,10 +52,14 @@ solutions.
  <li>Languages: JAVA, Python, Shell</li>
 </ul>
 ## Competencies
-‣ Excellent critical thinking and analytical skills.&nbsp;
-‣ Self starter and a quick learner.
-‣ Cross team communication and stakeholder management skills.
-‣ Conflict resolution.
+<ul>
+ <li> Excellent critical thinking and analytical skills.</li>
+ <li> Self starter and a quick learner.</li>
+ <li> Cross team communication and stakeholder management skills.</li>
+ <li> Conflict resolution.</li>
+</ul>
 ## Education
-‣ VIT University, Vellore, TN — BTech,CSE, 2016
-‣ Seth M.R. Jaipuria School,Lucknow—Xll ,2011
+<ul>
+  <li> VIT University, Vellore, TN — BTech,CSE, 2016</li>
+  <li> Seth M.R. Jaipuria School,Lucknow—Xll ,2011</li>
+</ul>

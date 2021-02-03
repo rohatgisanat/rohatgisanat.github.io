@@ -46,12 +46,19 @@ solutions.
 </ul>
 ### CNCF
   * Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators
+
 ### Monitoring
   * Grafana, Prometheus, Thanos, PagerDuty
+ 
+### Log Aggregation
+  * Filebeat, ELK, CDC, Kafka, Loki
+
+### CI/CD
+  * FluxCD, GitHub Actions
+
+### IaC
+  * Terraform, Ansible
 <ul>
- <li>Filebeat, ELK, CDC, Kafka, Loki</li>
- <li>Terraform, Ansible</li>
- <li>CI/CD:- FluxCD, GitHub Actions</li>
  <li>AWS- EC2,RDS,VPC,EKS</li>
  <li>Languages: JAVA, Python, Shell</li>
 </ul>

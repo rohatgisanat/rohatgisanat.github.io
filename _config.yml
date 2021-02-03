@@ -107,6 +107,15 @@ author:
   email            : "rohatgisanat@gmail.com"
   location         : "Noida,India"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/rohatgisanat"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rohatgisanat"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/4551228/rohatgisanat"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:rohatgisanat@gmail.com"
@@ -119,32 +128,19 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rohatgisanat"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/4551228/rohatgisanat"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/rohatgisanat"
-      
+      # url: "https://instagram.com/"      
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/rohatgisanat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/rohatgisanat"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -153,6 +149,12 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
 
 

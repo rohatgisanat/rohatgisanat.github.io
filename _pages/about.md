@@ -10,7 +10,9 @@ Self-starter, I bring a unique ability to identify/ analyse problem areas and pr
 solutions.
 
 <h3>Experience</h3>
-<h4>SENIOR DEVOPS ENGINEER,FAREYE;NOIDA,INDIA —MARCH 2020- PRESENT</h4>
+<h4>Senior DevOps Engineer</h4>
+<h5>Fareye</h5>
+<h5>March 2020 - Present</h5>
 <ul>
 	<li>  Migrate complete micro-services based environment to a single click application</li>
 	<li>deployment on Kubernetes, reducing lead time from weeks to hours, improving</li>

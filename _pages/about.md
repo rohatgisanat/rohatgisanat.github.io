@@ -7,6 +7,24 @@ toc: true
 toc_label: "Go To"
 toc_icon: "fas fa-bars"
 ---
+@import "minimal-mistakes";
+
+html {
+  font-size: 16px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to whatever
+  }
+}
+
 ## Profile
 Computer science engineer looking to gain experience in developing large scale
 software.&nbsp;

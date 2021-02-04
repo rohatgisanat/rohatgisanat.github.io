@@ -14,9 +14,8 @@ Self-starter, I bring a unique ability to identify/ analyse problem areas and pr
 solutions.
 
 ## Experience
+### | Pillar           | Technologies 									                          |
 ### Senior DevOps Engineer ;Fareye ;March 2020 - Present
-  
-
   * Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.
   * Lead adoption of multiple technologicoges from PoCs to Production.(Helm/FluxCD/Loki)
   * Manage CI/CD using Github Actions/FluxCD.

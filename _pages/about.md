@@ -56,6 +56,7 @@ solutions.
 | Languages        | Java,Python(Basic)                                                       |
 
 ## Education
+
 | Education | University       						| Year 		    |
 | --------  | --------         						| ------        |
 |	BTech	| VIT University,Vellore, TN 			| 2012-2016     |

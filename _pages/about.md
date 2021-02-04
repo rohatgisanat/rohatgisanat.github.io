@@ -44,24 +44,17 @@ solutions.
 <ul>
 	<li>Well versed in SRE mission statement and objectives.</li>
 </ul>
-### CNCF
-  * Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators
 
-### Monitoring
-  * Grafana, Prometheus, Thanos, PagerDuty
- 
-### Log Aggregation
-  * Filebeat, ELK, CDC, Kafka, Loki
+| Pillar           | Technologies 									                          |
+| --------         | ------ 																  |
+| CNCF    		   | Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators     |
+| Monitoring       | Grafana, Prometheus, Thanos, PagerDuty  								  |
+| Log Aggregation  | Filebeat, ELK, CDC, Kafka, Loki  										  |
+| CI/CD            | FluxCD, GitHub Actions  												  |
+| IaC              | Terraform, Ansible  													  | 
+| Cloud            | AWS,GCP                                                                  |
+| Languages        | Java,Python(Basic)                                                       |
 
-### CI/CD
-  * FluxCD, GitHub Actions
-
-### IaC
-  * Terraform, Ansible
-<ul>
- <li>AWS- EC2,RDS,VPC,EKS</li>
- <li>Languages: JAVA, Python, Shell</li>
-</ul>
 ## Competencies
 <ul>
  <li> Excellent critical thinking and analytical skills.</li>

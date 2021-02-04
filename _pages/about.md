@@ -56,12 +56,11 @@ solutions.
 | Languages        | Java,Python(Basic)                                                       |
 
 ## Competencies
-<ul>
- <li> Excellent critical thinking and analytical skills.</li>
- <li> Self starter and a quick learner.</li>
- <li> Cross team communication and stakeholder management skills.</li>
- <li> Conflict resolution.</li>
-</ul>
+:   Excellent critical thinking and analytical skills.
+:   Self starter and a quick learner.
+:   Cross team communication and stakeholder management skills.
+:   Conflict resolution.
+
 ## Education
 <ul>
   <li> VIT University, Vellore, TN — BTech,CSE, 2016</li>

@@ -16,34 +16,34 @@ solutions.
 ## Experience
 ### Senior DevOps Engineer ;Fareye ;March 2020 - Present
   
-<ul>
-	<li>Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.</li>
-  	<li>  Lead adoption of multiple technologicoges from PoCs to Production.(Helm/FluxCD/Loki)</li>
-	<li>  Manage CI/CD using Github Actions/FluxCD.</li>
-	<li>  Lead DevOps/SRE culture development by doing roadshows and presentations across firm.</li>
-	<li>  Lead 2 person team for identification and automation of tasks using Ansible.Including setting up and configuring EC2/Kafka/Postgres/Monitoring etc.</li>
-	<li>  Engage with different stakeholders to manage task prioritizations and accomplish common goals w.r.t platform building activities.</li>
-	<li>  Instrumental in doubling team size from 3 to 6.</li>
-</ul>
+
+	:   Migrate complete micro-services based environment to a single click application deployment on Kubernetes, reducing lead time from weeks to hours, improving resource utilisation and increasing release velocity.
+  	:     Lead adoption of multiple technologicoges from PoCs to Production.(Helm/FluxCD/Loki)
+	:     Manage CI/CD using Github Actions/FluxCD.
+	:     Lead DevOps/SRE culture development by doing roadshows and presentations across firm.
+	:     Lead 2 person team for identification and automation of tasks using Ansible.Including setting up and configuring EC2/Kafka/Postgres/Monitoring etc.
+	:     Engage with different stakeholders to manage task prioritizations and accomplish common goals w.r.t platform building activities.
+	:     Instrumental in doubling team size from 3 to 6.
+
 ### Software Development Engineer  ;Fareye ;March 2019 - Feb 2020
-<ul>
-	<li> Member of the core development team.Tasked with enhancing scale of the core platform.</li>
-	<li> Setup and optimise architecture in Google Kubernetes Engine and AWS (High availability/cost reduction)</li>
-	<li> Architect platform-wide log aggregation solution using ELK to reduce TTD.</li>
-	<li> Setup platform-wide monitoring and visibility solution using Prometheus, Grafana,Thanos and exporters (default/custom) measuring reliability including SLO/SLI.</li>
-	<li> Enhance in-house Java based release management tool.</li>
-	<li> Setup/maintain production grade CDC stack using Kafka Connect and Elasticsearch.</li>
-</ul>
+
+	:    Member of the core development team.Tasked with enhancing scale of the core platform.
+	:    Setup and optimise architecture in Google Kubernetes Engine and AWS (High availability/cost reduction)
+	:    Architect platform-wide log aggregation solution using ELK to reduce TTD.
+	:    Setup platform-wide monitoring and visibility solution using Prometheus, Grafana,Thanos and exporters (default/custom) measuring reliability including SLO/SLI.
+	:    Enhance in-house Java based release management tool.
+	:    Setup/maintain production grade CDC stack using Kafka Connect and Elasticsearch.
+
 ### Analyst ;BlackRock ;August 2016 - Feb 2019
-<ul>
-	<li> Member of SRE with mission to develop tools to scale system operations.</li>
-	<li> SME for software providing complete infrastructural (hardware and software) information.</li>
-	<li> Responsible for enhancing application including UI development, server side enhancement, database design and third-party API integration.</li>
-</ul>
+
+	:    Member of SRE with mission to develop tools to scale system operations.
+	:    SME for software providing complete infrastructural (hardware and software) information.
+	:    Responsible for enhancing application including UI development, server side enhancement, database design and third-party API integration.
+
 ## Skills
-<ul>
-	<li>Well versed in SRE mission statement and objectives.</li>
-</ul>
+
+	:   Well versed in SRE mission statement and objectives.
+
 
 | Pillar           | Technologies 									                          |
 | --------         | ------ 																  |
@@ -62,7 +62,7 @@ solutions.
 :   Conflict resolution.
 
 ## Education
-<ul>
-  <li> VIT University, Vellore, TN — BTech,CSE, 2016</li>
-  <li> Seth M.R. Jaipuria School,Lucknow—Xll ,2011</li>
-</ul>
+
+  :    VIT University, Vellore, TN — BTech,CSE, 2016
+  :    Seth M.R. Jaipuria School,Lucknow—Xll ,2011
+

@@ -44,6 +44,7 @@ solutions.
 
 ## Skills
   * Well versed in SRE mission statement and objectives.
+
 | Pillar           | Technologies 									                          |
 | --------         | ------ 																  |
 | CNCF    		   | Docker, Kubernetes (k8s), Helm, Git, Tracing (Jaeger), k8s operators     |

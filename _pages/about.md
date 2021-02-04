@@ -64,5 +64,5 @@ solutions.
 ## Education
 
   * VIT University, Vellore, TN — BTech,CSE, 2016
-  * Seth M.R. Jaipuria School,Lucknow—Xll ,2011
+  : Seth M.R. Jaipuria School,Lucknow—Xll ,2011
 

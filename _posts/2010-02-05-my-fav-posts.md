@@ -1,5 +1,7 @@
 ---
 title: "My favourite posts"
+categories:
+  - Reading
 tags:
   - reading
   - pasttime
